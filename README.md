@@ -1,4 +1,4 @@
-# :runner: Jumper 
+# :runner: :point_right: :ok_hand: Jumper 
 Jumper adalah game platformer 2D yang terinspirasi dari game dinosaurus google ketika tidak ada koneksi internet
 
 ## :technologist: Kontributor Pengembangan Game Jumper
